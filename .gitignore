@@ -1,5 +1,5 @@
 *.class
-*.db
 *.jar
+*.zip
+*.db
 *.git
-trabalho-padroes.zip
